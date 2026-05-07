@@ -1,0 +1,1 @@
+This repository contains downloadable copies of my public talks and presentations. The master branch contains a representative sample that consists of my main presentations in each of my research sub-fields (Chinese copulas/clefts, Differential Object Marking and Formal Historical Syntax). 
